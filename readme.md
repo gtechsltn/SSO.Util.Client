@@ -316,4 +316,13 @@ services.AddControllers(options =>
 > `StringExtention`: 字符串扩展(md5,sha256)  
 > `SymmetricEncryptHelper`: 对称加密算法  
 > `JwtManager`: JwtToken 生成类 
-> `FileClientService`: 文件服务类 
+> `FileClientService`: 文件服务类
+
+﻿# LogCenter 使用文档
+```
+文档已经集成在 SSO.Util.Client 中请参考
+https://github.com/wangyang602117818/SSO.Util.Client
+```
+```
+https://github.com/wangyang602117818/MessageCenter.Web
+```
